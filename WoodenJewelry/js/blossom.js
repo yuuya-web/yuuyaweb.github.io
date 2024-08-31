@@ -16,7 +16,7 @@ particlesJS("particles-js", {
 				"width":0,
 			},
 			"image":{
-				"src":"https://coco-factory.jp/ugokuweb/wp-content/themes/ugokuweb/data/move02/5-6/img/flower.png",//【重要】画像を指定！桜の画像を設定してください。
+				"src":"../img/flower.png",//【重要】画像を指定！桜の画像を設定してください。
 				"width":120,
 				"height":120
 			}
