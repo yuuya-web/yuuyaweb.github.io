@@ -1,3 +1,4 @@
+console.log('Hello World');
 particlesJS("particles-js", {
 	"particles":{
 		"number":{
